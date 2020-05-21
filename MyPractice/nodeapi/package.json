@@ -1,0 +1,23 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "A nodejs api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyendo24/PacktPublishing-React-Node-FullStack---Social-Network-from-Scratch-to-Deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyendo24/PacktPublishing-React-Node-FullStack---Social-Network-from-Scratch-to-Deploy/issues"
+  },
+  "homepage": "https://github.com/nguyendo24/PacktPublishing-React-Node-FullStack---Social-Network-from-Scratch-to-Deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
